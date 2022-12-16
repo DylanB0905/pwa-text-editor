@@ -7,7 +7,7 @@
 This is a single-page text editor that runs in a browser and meets the PWA criteria. It features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application is deployed on Heroku and also functions offline. It has the following interface:
 
 
-![Alt text](./assets/images/jate.png?raw=true "Webpage Screenshot")
+![Webpage Screenshot](./assets/images/jate.png?raw=true "Webpage Screenshot")
 
 
 
